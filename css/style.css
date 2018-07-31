@@ -1,18 +1,24 @@
 h1 {
   font-family: sans-serif;
-  color: green;
+  color: #530000;
+  text-align: center;
 }
 
 h2 {
   font-weight: bold;
   color: purple;
   font-size: 20px;
+  text-align: center;
 }
 
 body {
-  background-color: pink;
+  background-image: url("marble.jpg");
+  margin-left: 160px;
+  margin-right: 160px;
+  font-family: sans-serif;
 }
 
 p {
-  color: white;
+  color: #2e0000;
+  text-align: justify;
 }
