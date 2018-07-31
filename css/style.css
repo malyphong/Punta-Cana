@@ -2,3 +2,17 @@ h1 {
   font-family: sans-serif;
   color: green;
 }
+
+h2 {
+  font-weight: bold;
+  color: purple;
+  font-size: 20px;
+}
+
+body {
+  background-color: pink;
+}
+
+p {
+  color: white;
+}
